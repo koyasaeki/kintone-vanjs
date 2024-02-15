@@ -1,0 +1,20 @@
+{
+  "type": "APP",
+  "manifest_version": 1,
+  "version": "0.1.0",
+  "name": {
+    "en": "kintone plugin vanjs sample",
+    "ja": "kintone plugin vanjs sample"
+  },
+  "description": {
+    "en": "This is a sample plugin.",
+    "ja": "This is a sample plugin."
+  },
+  "icon": "assets/icon.png",
+  "config": {
+    "html": "index.html",
+    "js": [
+      "index.js"
+    ]
+  }
+}
