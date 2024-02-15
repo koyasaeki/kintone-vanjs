@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "5.3.3",
+    "vanjs-core": "1.2.8",
+    "vite": "5.1.2"
+  }
+}
